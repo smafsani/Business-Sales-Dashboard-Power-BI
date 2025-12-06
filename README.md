@@ -7,10 +7,15 @@ It provides insights on revenue, product performance, regional trends, and month
 
 ### 📁 Project Structure
 /Business-Sales-Dashboard-Power-BI
+
 ├── data/ # Raw & processed datasets
+
 ├── notebooks/ # Python notebooks for data pre-processing
+
 ├── dashboard.pbix # Power BI dashboard file
+
 ├── screenshots/ # Exported visuals
+
 └── README.md
 
 
