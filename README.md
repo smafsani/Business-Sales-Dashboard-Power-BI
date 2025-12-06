@@ -1,11 +1,11 @@
-# 📊 Sales Performance Dashboard — Power BI + Python
+## 📊 Sales Performance Dashboard — Power BI + Python
 
 This project analyzes sales data using Python for data preprocessing and Power BI for interactive visualization.  
 It provides insights on revenue, product performance, regional trends, and monthly sales behavior to support business decision-making.
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 /Business-Sales-Dashboard-Power-BI
 ├── data/ # Raw & processed datasets
 ├── notebooks/ # Python notebooks for data pre-processing
@@ -16,7 +16,7 @@ It provides insights on revenue, product performance, regional trends, and month
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 - Data cleaning & preprocessing with Python (Pandas)
 - Power BI dashboard with interactive visuals
 - KPIs: Total Sales, Average Weekly Sales, Store Rankings
@@ -27,7 +27,7 @@ It provides insights on revenue, product performance, regional trends, and month
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 | Tool | Purpose |
 |------|----------|
 | Python (Pandas, NumPy) | Data processing & cleaning |
@@ -37,24 +37,24 @@ It provides insights on revenue, product performance, regional trends, and month
 
 ---
 
-## 📊 Dashboard Preview
+### 📊 Dashboard Preview
 On Progress
 
-## 📈 Insights (Fill after completion)
+### 📈 Insights (Fill after completion)
 - Top performing stores
 - Sales patterns over time
 - Holiday weeks vs normal weeks impact
 - Effect of external factors on sales (Temperature, CPI, etc.)
 - Recommendations for Walmart management
 
-## 📥 How to Run
+### 📥 How to Run
 1. Clone this repository  
 2. Open `notebooks/cleaning.ipynb` (or Python script)  
 3. Load CSV dataset and run preprocessing steps  
 4. Open `dashboard.pbix` in Power BI  
 5. Explore the dashboard and insights
 
-## 📄 Dataset Details
+### 📄 Dataset Details
 **Columns Used:**
 Store
 Date
@@ -73,7 +73,7 @@ Unemployment
 
 ---
 
-## ⭐ Future Extensions
+### ⭐ Future Extensions
 - Forecast future sales using ML models (Prophet/LSTM)
 - Add anomaly detection for unusual spikes
 - Deploy interactive dashboard via web (Streamlit/Power BI online)
@@ -81,7 +81,7 @@ Unemployment
 
 ---
 
-## 🔗 Contact
+### 🔗 Contact
 Connect with me on LinkedIn or GitHub for collaboration and feedback.
 
 ---
